@@ -18,6 +18,15 @@ git status
 git add (staging area)
 git add filename
 git commit -m "Message"
+git diff (current file and previous version)
+git log
+git reset --hard SHANUMBER
+.gitignore
+echo "password.txt" >> .gitignore
+git add .gitignore
+git push
+
+How do I remove "password.txt"? To do this, I use "git rm --cached password.txt".
 
 feat for feature, 
 fix for a bugfix, 
