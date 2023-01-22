@@ -24,14 +24,26 @@ using cards
 before and afer css
 obsidian
 
+# Development
+
+- minimization of css files
+https://css-minifier.com/
+https://www.minifier.org/
+https://www.cleancss.com/css-minify/
+
+- minimization of images
+https://tinypng.com/
+
 # Testing links
+html&css validator
 https://validator.w3.org/
+lighthouse
 https://developer.chrome.com/docs/lighthouse/overview/
+amiresponsive
 https://ui.dev/amiresponsive
 https://www.browserstack.com/
+- cross browser testing
 
-lighthouse
-amiresponsive
 automation
 
 Selenium Plugins (Chrome & Firefox)
@@ -42,6 +54,10 @@ https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/
 https://www.w3schools.com/
 
 ## Udemy
+Build Responsive Real-World Websites with HTML and CSS
+Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+Jonas Schmedhmann
+
 ## Youtube
 https://www.youtube.com/@KevinPowell
 
@@ -61,5 +77,9 @@ https://www.shutterstock.com/
 https://www.istockphoto.com/
 https://www.gettyimages.ie/
 
+## Navigation
+https://www.youtube.com/watch?v=YsG2vioTCMY
+https://www.youtube.com/watch?v=PwWHL3RyQgk
+https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/
 ## Documentation
 https://www.markdownguide.org/
