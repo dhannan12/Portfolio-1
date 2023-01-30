@@ -78,6 +78,8 @@ https://www.istockphoto.com/
 https://www.gettyimages.ie/
 
 ## Navigation
+Responsive Pure CSS Menu Tutorial (No Javascript)
+https://www.youtube.com/watch?v=sjrp1FEHnyA
 https://www.youtube.com/watch?v=YsG2vioTCMY
 https://www.youtube.com/watch?v=PwWHL3RyQgk
 https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/
