@@ -10,7 +10,8 @@ https://coolors.co/
 https://webaim.org/
 
 design choice
-
+screen sizes
+https://www.browserstack.com/guide/ideal-screen-sizes-for-responsive-design
 
 # UI Mock Ups
 - balsamic
