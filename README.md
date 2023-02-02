@@ -12,6 +12,7 @@ https://webaim.org/
 design choice
 screen sizes
 https://www.browserstack.com/guide/ideal-screen-sizes-for-responsive-design
+https://www.altamira.ai/blog/common-screen-sizes-for-responsive-web-design/
 
 # UI Mock Ups
 - balsamic
@@ -92,3 +93,7 @@ https://www.youtube.com/watch?v=PwWHL3RyQgk
 https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/
 ## Documentation
 https://www.markdownguide.org/
+
+Carousel
+https://www.youtube.com/watch?v=F33_O-lcx20
+Pure CSS Carousel - HTML5/CSS3 Tutorial || No Javascript || No Jquery
