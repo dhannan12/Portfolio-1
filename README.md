@@ -9,6 +9,7 @@ color scheme
 https://coolors.co/
 https://webaim.org/
 
+User images - Google - Images - Tools Creative Commons
 design choice
 screen sizes
 https://www.browserstack.com/guide/ideal-screen-sizes-for-responsive-design
@@ -82,6 +83,7 @@ https://pixabay.com/
 https://www.shutterstock.com/
 https://www.istockphoto.com/
 https://www.gettyimages.ie/
+https://www.flickr.com/
 
 ## Navigation
 <!-- https://www.youtube.com/watch?v=oLgtucwjVII -->
@@ -94,6 +96,9 @@ https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header
 ## Documentation
 https://www.markdownguide.org/
 
-Carousel
+## Carousel
 https://www.youtube.com/watch?v=F33_O-lcx20
 Pure CSS Carousel - HTML5/CSS3 Tutorial || No Javascript || No Jquery
+
+## Gallery Grid - Repsonsive
+https://www.youtube.com/watch?v=gvPyJ0rc944
