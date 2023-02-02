@@ -6,6 +6,9 @@
 # User Stories
 # Design
 color scheme
+https://coolors.co/
+https://webaim.org/
+
 design choice
 
 
@@ -21,7 +24,7 @@ nav iframe
 multiple languages
 hamburger menu
 using cards
-before and afer css
+before and after css
 obsidian
 
 # Development
@@ -52,6 +55,7 @@ https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/
 
 # References
 https://www.w3schools.com/
+https://www.maps.ie/create-google-map/
 
 ## Udemy
 Build Responsive Real-World Websites with HTML and CSS
@@ -78,6 +82,8 @@ https://www.istockphoto.com/
 https://www.gettyimages.ie/
 
 ## Navigation
+<!-- https://www.youtube.com/watch?v=oLgtucwjVII -->
+<!--How to Create Responsive Navigation Bar using HTML and CSS-->
 Responsive Pure CSS Menu Tutorial (No Javascript)
 https://www.youtube.com/watch?v=sjrp1FEHnyA
 https://www.youtube.com/watch?v=YsG2vioTCMY
