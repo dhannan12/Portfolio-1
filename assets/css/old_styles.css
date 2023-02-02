@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body, h1 {
+    font:bolder;
+    /* font-family: 'Lato', sans-serif; */
+    font-family: 'Oswald', sans-serif;
+    background-color: aquamarine;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    background-color: brown;
+}
