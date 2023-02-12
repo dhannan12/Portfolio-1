@@ -18,6 +18,7 @@ screen sizes
 https://www.perfecto.io/blog/how-mobile-screen-size-resolution-and-ppi-screen-affect-test-coverage
 https://www.browserstack.com/guide/ideal-screen-sizes-for-responsive-design
 https://www.altamira.ai/blog/common-screen-sizes-for-responsive-web-design/
+https://www.antutu.com/en/doc/127152.htm
 
 # UI Mock Ups
 - balsamic
@@ -81,6 +82,9 @@ https://sia.codes/posts/making-google-fonts-faster/
 https://fontawesome.com/docs/web/
 https://careerfoundry.com/en/blog/ui-design/choosing-website-fonts/
 https://www.typewolf.com/resources
+
+## Flexbox
+https://www.munnelly.com/webdesign/exercises/flex-two-cols.html
 
 ## Image Sources
 https://www.pexels.com/

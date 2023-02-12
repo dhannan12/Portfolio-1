@@ -9,8 +9,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Redressed" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Redressed&display=swap" rel="stylesheet"> 
-    <!--Font Awesome-->
-    <script src="https://kit.fontawesome.com/b29ba46753.js" crossorigin="anonymous"></script>
     <title>Contact Us</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     <!-- <link rel="stylesheet" href="/assets/css/contact.css"> -->
@@ -18,6 +16,7 @@
 <body>
     <header>
         <nav>
+            <h1 id="logo">MM Hikes</h1>
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
@@ -25,67 +24,55 @@
             </ul>
         </nav>
     </header>
-    <div class="container">
-        <h1 class="form-title">Contact Us</h1>
-            <form action="#">
-                <div class="main-user-info">
-                    <div class="user-input-box">
-                        <label for="fullName">Full Name</label>
-                        <input type="text"
-                            id="fullName"
-                            name="fullName"
-                            placeholder="Enter Full Name"/>
-                    </div>
-                    <div class="user-input-box">
-                        <label for="username">Username</label>
-                        <input type="text"
-                            id="username"
-                            name="username"
-                            placeholder="Enter username"/>
-                    </div>
-                    <div class="user-input-box">
-                        <label for="email">Email</label>
-                        <input type="email"
-                            id="email"
-                            name="email"
-                            placeholder="Enter Email"/>
-                    </div>
-                    <div class="user-input-box">
-                        <label for="phoneNumber">Phone Number</label>
-                        <input type="text"
-                            id="phoneNumber"
-                            name="phoneNumber" Phone Number"/>
-                    </div>
-                    <div class="user-input-box">
-                        <label for="password">Password</label>
-                        <input type="password"
-                            id="password"
-                            name="password"
-                            placeholder="Enter Password"/>
-                    </div>
-                    <div class="user-input-box">
-                        <label for="phoneNumber">Confirm Password</label>
-                        <input type="password"
-                            id="conf_password"
-                            name="conf_password" Confirm Password"/>
-                    </div>
+
+<div class="container" id="contact-body">
+    <h1 class="form-title">Contact Us</h1>
+        <form action="#">
+            <div class="main-user-info">
+                <div class="user-input-box">
+                    <label for="firstName">First Name</label>
+                    <input type="text"
+                        id="firstName"
+                        name="firstName"
+                        placeholder="Enter First Name"/>
                 </div>
-                <div class="form-submit-button">
-                    <input type="submit" value="Register">
+                <div class="user-input-box">
+                    <label for="surName">Surname</label>
+                    <input type="text"
+                        id="surName"
+                        name="surName"
+                        placeholder="Enter Surname"/>
                 </div>
-            </form>
-    </div>
+                <div class="user-input-box">
+                    <label for="email">Email</label>
+                    <input type="email"
+                        id="email"
+                        name="email"
+                        placeholder="Enter Email"/>
+                </div> 
+            </div>
+            <div class="form-submit-button">
+                <input type="submit" value="Register">
+            </div>
+        </form>
+</div>
+</section>
+
+<section>
     <div id="googlemap" style="width: 200; height: 200;"><iframe width="400" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=2%20Newry%20Rpad,%20Dundalk+(Sewing%20Geni)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">area maps</a></iframe></div>
+</section>
 </body>
 <footer>
-    <h3>&copy Copyright 2023 Dermot Hannan All rights reserved - Release 1.0
-    </h3>
-        <div class="social-links">
-            <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-instagram"></i></a>
-            <a href="#"><i class="fa fa-twitter"></i></a>
-            <a href="#"><i class="fa fa-pinterest"></i></a>
-            <a href="#"><i class="fa fa-youtube"></i></a>    
-    </div>
+    <ul class="social-links">
+        <li><a href="https://facebook.com" target="_blank" rel="noopener" arial-label="Visit our Facebook Page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a></li>
+        <li><a href="https://instagram.com" target="_blank" rel="noopener" arial-label="Visit our Instagram Page (opens in a new tab)"><i class="fa-brands fa-instagram"></i></a></li>
+        <li><a href="https://twitter.com" target="_blank" rel="noopener" arial-label="Visit our Twitter Page (opens in a new tab)"><i class="fa-brands fa-square-twitter"></i></a></li>
+        <li><a href="https://pinterest.com" target="_blank" rel="noopener" arial-label="Visit our pinterest Page (opens in a new tab)"><i class="fa-brands fa-pinterest"></i></a></li>
+        <li><a href="https://youtube.com" target="_blank" rel="noopener" arial-label="Visit our Youtube Page (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a></li>
+    </ul>
+    <h4>&copy Copyright 2023 Dermot Hannan All rights reserved - Release 1.0</h3>
 </footer>
+ <!--Font Awesome-->
+ <script src="https://kit.fontawesome.com/b29ba46753.js" crossorigin="anonymous"></script>
+   
 </html>
