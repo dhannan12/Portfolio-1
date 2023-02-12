@@ -9,9 +9,13 @@ color scheme
 https://coolors.co/
 https://webaim.org/
 
+Image Editors
+GIMP - 
+https://pixlr.com/editor/
 User images - Google - Images - Tools Creative Commons
 design choice
 screen sizes
+https://www.perfecto.io/blog/how-mobile-screen-size-resolution-and-ppi-screen-affect-test-coverage
 https://www.browserstack.com/guide/ideal-screen-sizes-for-responsive-design
 https://www.altamira.ai/blog/common-screen-sizes-for-responsive-web-design/
 
@@ -31,6 +35,9 @@ before and after css
 obsidian
 
 # Development
+sending formdata: https://formdump.codeinstitute.net/
+
+Gallery Section Masonary Design
 
 - minimization of css files
 https://css-minifier.com/

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+    <!--https://www.youtube.com/watch?v=G8mYjB_sT0o-->
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,30 +12,70 @@
     <!--Font Awesome-->
     <script src="https://kit.fontawesome.com/b29ba46753.js" crossorigin="anonymous"></script>
     <title>Contact Us</title>
-    <link rel="stylesheet" href="./assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <!-- <link rel="stylesheet" href="/assets/css/contact.css"> -->
 </head>
 <body>
-    <header> Put the Contact Header Information</header>
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="gallery.html">Gallery</a></li>
-            <li><a class="active" href="contact.html">Contact</a></li>
-        </ul>
-    </nav>
-    <h1>Contact</h1>
-    <form>
-        <fieldset>
-          <legend>User</legend>
-          <label for="fname">First Name:</label>
-          <input type="text" id="fname" name="fname">
-          <label for="lname">Last Name:</label>
-          <input type="text" id="lname" name="lname">
-          <label for="email">Email Address:</label>
-          <input type="email" id="email" name="email" required>
-        </fieldset>
-      </form>
-      <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=2%20Newry%20Rpad,%20Dundalk+(Sewing%20Geni)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">area maps</a></iframe></div>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a class="active" href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <h1 class="form-title">Contact Us</h1>
+            <form action="#">
+                <div class="main-user-info">
+                    <div class="user-input-box">
+                        <label for="fullName">Full Name</label>
+                        <input type="text"
+                            id="fullName"
+                            name="fullName"
+                            placeholder="Enter Full Name"/>
+                    </div>
+                    <div class="user-input-box">
+                        <label for="username">Username</label>
+                        <input type="text"
+                            id="username"
+                            name="username"
+                            placeholder="Enter username"/>
+                    </div>
+                    <div class="user-input-box">
+                        <label for="email">Email</label>
+                        <input type="email"
+                            id="email"
+                            name="email"
+                            placeholder="Enter Email"/>
+                    </div>
+                    <div class="user-input-box">
+                        <label for="phoneNumber">Phone Number</label>
+                        <input type="text"
+                            id="phoneNumber"
+                            name="phoneNumber" Phone Number"/>
+                    </div>
+                    <div class="user-input-box">
+                        <label for="password">Password</label>
+                        <input type="password"
+                            id="password"
+                            name="password"
+                            placeholder="Enter Password"/>
+                    </div>
+                    <div class="user-input-box">
+                        <label for="phoneNumber">Confirm Password</label>
+                        <input type="password"
+                            id="conf_password"
+                            name="conf_password" Confirm Password"/>
+                    </div>
+                </div>
+                <div class="form-submit-button">
+                    <input type="submit" value="Register">
+                </div>
+            </form>
+    </div>
+    <div id="googlemap" style="width: 200; height: 200;"><iframe width="400" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=2%20Newry%20Rpad,%20Dundalk+(Sewing%20Geni)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/distance-area-calculator.html">area maps</a></iframe></div>
 </body>
 <footer>
     <h3>&copy Copyright 2023 Dermot Hannan All rights reserved - Release 1.0
