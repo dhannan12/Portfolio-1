@@ -188,7 +188,7 @@ hr {
     width: 100%;
     margin: 5px;
 }
-/* Adding Media Queries to make responsive */
+
 
 #mourne-parks {
     background-image: url('/assets/images/Mourne_Mountains_banner_Lough_Island_Reavy.JPG');
@@ -246,6 +246,9 @@ h4 {
 #photos > img {
     width: 100%;
 }
+
+/* Adding Media Queries to make responsive */
+/* Medium Screen and Tablets */ 
 @media (max-width: 952px) {
     label.logo {
         font-size: 30px;
@@ -255,5 +258,17 @@ h4 {
 
     nav ul li a{
         font-size: 16px;
+    }
+
+    #photos {
+        column-count: 2;
+    }
+}
+
+/* Mobiles */
+
+@media (max-width: 600px) {
+    #photos {
+        column-count: 1;
     }
 }
